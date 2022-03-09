@@ -1,0 +1,16 @@
+[
+     {
+          "id": 743,
+          "titulo": "Mate",
+          "autor": "Davalos",
+          "publicado": 2020,
+          "editorial": "UdeG"
+     },
+     {
+          "id": 591,
+          "titulo": "Progra",
+          "autor": "Michel",
+          "publicado": 2000,
+          "editorial": "Pearson"
+     }
+]
